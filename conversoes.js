@@ -10,3 +10,5 @@ const numeroString = Number("456a");
 console.log(numero + numeroString)
 
 // conversão explícita
+
+console.warn(new Error('oi'))
